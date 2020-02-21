@@ -1,0 +1,25 @@
+{
+  "name": "cours__nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yevheniimoskalenko/cours__nodejs.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "yevhenii moskalenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yevheniimoskalenko/cours__nodejs/issues"
+  },
+  "homepage": "https://github.com/yevheniimoskalenko/cours__nodejs#readme",
+  "dependencies": {
+    "chalk": "^3.0.0"
+  }
+}
